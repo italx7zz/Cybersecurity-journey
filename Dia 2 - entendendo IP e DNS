@@ -1,0 +1,16 @@
+Eu eu aprendi como funciona a comunicação na internet, e é incrível como é tão complexo 
+por baixo dos panos.
+
+conceitos que aprendi hoje:
+- O IP é o endereço de um dispositivo
+- O DNS traduz nomes em IP
+
+Comandos que usei hoje:
+- ip a > para mostrar meu endereço IP
+- PING > para testar conexão com o endereço do google
+- nslookup > para resolver o DNS
+
+Hoje eu percebi que:
+- consigo me comunicar com servidores
+- e que o DNS facilita muito o uso da internet, imagina só como seria decorar um monte
+de endereço IP.
