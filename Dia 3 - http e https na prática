@@ -1,0 +1,15 @@
+Hije eu aprendi bastante sobre como a web funciona por baixo do panos.
+
+conceitos que aprendi:
+- https é o protocolo da web
+- já o https é o http com criptografia
+
+na prática:
+- usei a ferramenta DevTools hoje, foi um pouquinho desafiador no início, mas nada que um tutorial
+no you tudo mais um pouco de prática não resolva né😂
+- analisei requisições de um site e alterei e brinquei um pouco com o front-end dele.
+-observei métodos como o GET e status code também
+
+percebi que:
+- um site faz várias requisições por baixo dos panos
+- e que existe comunicação constante entre cliente e servidor.
