@@ -1,0 +1,17 @@
+Hoje eu aprendi sobre portas e escaneamento.
+
+conceitos que aprendi:
+- portas são entradas de um sistema
+- Cada serviço roda em uma porta
+
+e na prática:
+- usei o Nmap para escanear localhost
+- também identifiquei portas abertas e serviços rodando nessas portas
+
+comandos que eu usei:
+- nmap localhost > para escanear minha própria máquina
+- nmap -sV localhost > para identificar a versão dos serviços rodando nessas portas
+
+Eu percebi que:
+-É possível descobrir serviços ativos
+- e o mais legal é que isso pode ser usado para identificar vulnerabilidades.
