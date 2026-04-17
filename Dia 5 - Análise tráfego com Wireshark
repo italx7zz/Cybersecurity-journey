@@ -1,0 +1,18 @@
+Hoje eu aprendi um pouco sobre análise de tráfego de rede.
+
+conceitos:
+- Tráfego é a comunicação entre dispositivos
+- Os pacotes carregam as informações
+
+Na prática:
+- Eu usei o Wireshark para capturar tráfego de rede
+- Analisei requisições DNS
+- E também observei comunicação real acontecendo na rede
+
+filtros que usei:
+- DNS
+- HTTP
+
+Hoje eu percebi que:
+- O computador está sempre se comunicando na rede
+- E que com Wiresharkeu consigo ver e analisar toda essa comunicação acontecendo por baixo dos panos.
