@@ -1,0 +1,17 @@
+Hoje o meu foco foi em consolidar o meu aprendizado
+
+Labs realizados no TryHackMe:
+- DNS em detalhes
+
+Revisão:
+- IP, DNS, HTTP/HTTPS, PORTAS
+
+Explicação:
+O DNS funciona tradizindo nomes de domínio em endereçoes IP. Um comando muito útil
+que aprendi hoje é o: NSLOOKUP, ele serve pra encontrar os endereços IPs dos sites, mas
+também dá pra usar ele pra descobrir registros diferentes de um domínio.
+
+Aprendizado:
+- Eu estou começando a entender bem melhor como a internet funciona, é uma coisa bem complexa, mas
+também bem legal de aprender.
+- Agora eu já estou conseguindo acompanhar melhor os labs no tryHackMe.
