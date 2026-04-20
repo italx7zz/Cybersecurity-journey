@@ -1,0 +1,14 @@
+Hoje eu comecei a aprender sobre defesa em cibersegurança, especificamente SOC.
+
+condeitos:
+- Ataques podem ser identificadospor padrões
+- Brute force é um ataque muito comum
+
+Análise:
+- Quando existe muitas tentativas de login fracassadas pode ser um ataque
+
+Aprendizado:
+- Um dos principais papéis do analista é identificar comportamentos suspeitos
+
+Importante:
+- Eu estou fazendo SOC nível 1 no TryHackMe.
