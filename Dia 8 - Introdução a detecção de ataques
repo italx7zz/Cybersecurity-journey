@@ -12,3 +12,9 @@ Aprendizado:
 
 Importante:
 - Eu estou fazendo SOC nível 1 no TryHackMe.
+
+Melhorias:
+- Eu aprendi que antes de bloquear um IP por desconfiar que é uma tentativa de invasão,
+é necessário validar o contexto
+- Nem toda tentativa de login falha é um ataque
+- Aprendi que pode existir ataques distribuídos usando vários IPs diferentes
