@@ -1,0 +1,17 @@
+Hoje eu aprendi um pouco sobre análise de logs na prática.
+
+Conceitos:
+- logs mostram comportamento do sistema
+- Padrões indicam possíveis ateques
+
+Análise:
+- múltiplas tentativas de login falhas seguidas por um acesso bem sucedido, 
+pode indicar possível ataque brute force bem sucedido.
+
+Ação:
+- Investigar a conta que foi comprometida
+- Aplicar as medidas de segurança
+- Monitorar as atividades
+
+Aprendizado:
+- Análise de logs é essencial para detectar incidentes digitais
