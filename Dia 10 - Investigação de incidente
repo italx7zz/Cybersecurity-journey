@@ -1,0 +1,20 @@
+Hoje eu pratiquei investigação de incidente.
+
+Cenário analisado:
+- Múltiplas tentativas de login
+- Login bem-sucedido após falhas
+- Mudança de senha
+- Acesso por novo IP
+
+Análise:
+- Indica possível comprometimento de conta via brute force
+
+Ações recomendadas:
+- Reset de senha
+- Bloquear IP suspeito
+- Encerrar sessões ativas
+- Investigar atividade posterior
+
+Aprendizado:
+- Correlação de eventos é essencial
+- Nem todo ataque é só tentativa, O ataque pode evoluir para um possível comprometimento.
